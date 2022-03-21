@@ -10,8 +10,6 @@ Copyright (c) 2022 rakshitdogra
 
 # NOTICE
 This code is NOT realated to any NCERT RELEASED telegram bot this is only a demo for educational purposes only.
-ALL COPYRIGHTS RESERVED BY NCERT.
-NO AFFILIATED LINKS ARE USED IN THIS PROJECT.
 
 [![MIT](https://img.shields.io/github/license/rakshitdogra/yt-video-downloader)](https://github.com/rakshitdogra/yt-video-downloader/blob/main/LICENSE)
 
